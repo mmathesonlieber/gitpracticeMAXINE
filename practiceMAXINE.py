@@ -1,5 +1,5 @@
-# Partner 1 Name: Maxine
-# Partner 2 Name: Amanda
+# Partner 1 Name: Maxine Matheson-Lieber
+# Partner 2 Name: Amanda Tracy
 #############################
 #Assignmnent Name: GitHub Practice
 def getNRandom(n):
