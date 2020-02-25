@@ -1,5 +1,5 @@
-# Partner 1 Name: Maxine
-# Partner 2 Name: Amanda
+# Partner 1 Name: Maxine Matheson-Lieber
+# Partner 2 Name: Amanda Tracy
 #############################
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
