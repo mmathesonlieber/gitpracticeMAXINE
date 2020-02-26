@@ -5,8 +5,11 @@
 
 
 def getNRandom(n):
-	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
-    pass
+    '''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
+    list=[]
+    for i in range n:
+       list.append(random.randint(0,11))
+    return list
 
 def multiplyRandom(numbers):
 	'''takes in a list of n numbers and returns the product of the numbers'''
