@@ -10,6 +10,7 @@ def getNRandom(n):
     list=[]
     for i in range (n):
        list.append(random.randint(0,11))
+    print(list)
     return list
 
 def multiplyRandom(numbers):
