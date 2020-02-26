@@ -12,7 +12,7 @@ def getNRandom(n):
     return list
 
 def multiplyRandom(numbers):
-	'''takes in a list of n numbers and returns the product of the numbers'''
+    '''takes in a list of n numbers and returns the product of the numbers'''
     product = 1
     for n in numbers:
         product = product*n
