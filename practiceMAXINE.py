@@ -3,6 +3,7 @@
 ###########################
 #Assignmnent Name: GitHub Practice - 2/26/20 - 10 points
 
+import random
 
 def getNRandom(n):
     '''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
