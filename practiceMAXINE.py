@@ -1,7 +1,9 @@
 # Partner 1 Name: Maxine Matheson-Lieber
 # Partner 2 Name: Amanda Tracy
-#############################
-#Assignmnent Name: GitHub Practice - 20 points
+###########################
+#Assignmnent Name: GitHub Practice - 2/26/20 - 10 points
+
+
 def getNRandom(n):
 	'''takes in an integer and returns a list of n random integers between 1 and 10, inclusive'''
     pass
