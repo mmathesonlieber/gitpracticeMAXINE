@@ -21,5 +21,5 @@ def multiplyRandom(numbers):
 def main():
     print(multiplyRandom(getNRandom(10))
 
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
